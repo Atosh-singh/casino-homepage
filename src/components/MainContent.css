@@ -1,0 +1,36 @@
+.main-content {
+  padding: 50px 20px;
+  background-color: #f4f4f4;
+}
+
+.featured-games {
+  margin-bottom: 50px;
+}
+
+.featured-games h2,
+.promotions h2 {
+  color: #111;
+  margin-bottom: 20px;
+}
+
+.game-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.game-item {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  width: 150px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.promotions {
+  text-align: center;
+  padding: 40px;
+  background-color: #222;
+  color: white;
+  border-radius: 10px;
+}
